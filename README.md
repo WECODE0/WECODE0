@@ -1,28 +1,78 @@
-<h1 align="center">Hi 👋, I'm Rehman Ilyas</h1>
-<h3 align="center">A passionate web developer from pakistan</h3>
+# Hi 👋, I'm Rehman Ilyas
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wecode0&label=Profile%20views&color=0e75b6&style=flat" alt="wecode0" /> </p>
+### AWS DevOps & Full-Stack Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wecode0" alt="wecode0" /></a> </p>
+Passionate about building production-style cloud infrastructure, CI/CD pipelines, containerized applications, and scalable serverless workflows on AWS.
 
-- 🌱 I’m currently learning **mern stack**
+---
 
-- 👯 I’m looking to collaborate on **javascripts**
+## 🚀 About Me
 
-- 🤝 I’m looking for help with **mern stack**
+* 🔭 Currently working on **AWS DevOps & Serverless Projects**
+* 🌱 Learning and building with **AWS, Docker, ECS Fargate, CI/CD, Lambda, and Cloud Infrastructure**
+* 👯 Open to collaborating on **Cloud, DevOps, and Full-Stack Projects**
+* 💬 Ask me about **AWS, Docker, ECS Fargate, CI/CD, React, Node.js, and Serverless Architecture**
+* 📫 Reach me at: **[rehman.ilyas@outlook.com](mailto:rehman.ilyas@outlook.com)**
 
-- 💬 Ask me about **javascripts**
+---
 
-- 📫 How to reach me **rehman.ilyas@outlook.com**
+## 🌐 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rehman-ilyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehman-ilyas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rehman-ilyas" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehman-ilyas" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wecode0&show_icons=true&locale=en&layout=compact" alt="wecode0" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wecode0&show_icons=true&locale=en" alt="wecode0" /></p>
+### Cloud & DevOps
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+</p>
+
+### Backend & Database
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+</p>
+
+### Frontend
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AWS ECS Fargate CI/CD Deployment
+
+* Dockerized full-stack application deployment on AWS ECS Fargate
+* GitHub Actions automated CI/CD pipeline
+* Amazon ECR image management
+* HTTPS custom domain with ACM SSL
+* Application Load Balancer integration
+* Event-driven auto start/stop infrastructure optimization
+
+### 🔹 AWS Serverless Image Processing Workflow
+
+* Built event-driven image processing architecture using AWS S3 and Lambda
+* Automatic image validation and compression workflow
+* Invalid files routed to junk bucket automatically
+* Optimized storage and processing pipeline using serverless architecture
+
+---
